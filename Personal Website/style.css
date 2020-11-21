@@ -1,0 +1,18 @@
+#Apps{
+    width: 100px;
+    height: 800px;
+    background-color: blue;
+}
+#Games{
+   width: 100px;
+    height: 800px;
+    background-color: blue;  
+}
+#Chatapp{
+     width: 100px;
+    height: 800px;
+    background-color: blue;
+}
+body{
+    text-align: center;
+}
